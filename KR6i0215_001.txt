@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:02.079598
+#+DATE: 2015-08-30 20:13:03.229903
 #+TITLE: 佛說黑氏梵志經
 #+PROPERTY: CBETA_ID T14n0583
 #+PROPERTY: ID KR6i0215
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 583
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0215_T_000-0967a>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0215_T_001-0967a> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.583¶
-
- 佛說黑氏梵志經¶
+No. 583¶
+佛說黑氏梵志經¶
 ¶
-吳月支國居士支謙譯¶
+吳月支國居士居士支謙譯¶
 
 聞如是：
 
